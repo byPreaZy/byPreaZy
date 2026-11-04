@@ -37,24 +37,10 @@ const preaZy = {
 ## Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=byPreaZy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr" alt="Stats GitHub"/>
+  <img width="100%" src="https://raw.githubusercontent.com/byPreaZy/byPreaZy/output/metrics.svg" alt="Statistiques détaillées"/>
+</div>
+<div align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=byPreaZy&theme=tokyonight&hide_border=true&locale=fr" alt="Streak GitHub"/>
-</div>
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byPreaZy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr" alt="Langages les plus utilisés"/>
-</div>
-
-## Trophées
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=byPreaZy&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophées GitHub"/>
-</div>
-
-## Projets phares
-
-<div align="center">
-  <a href="https://github.com/byPreaZy/blindallmusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=byPreaZy&repo=blindallmusic&theme=tokyonight&hide_border=true" alt="blindallmusic"/></a>
-  <a href="https://github.com/byPreaZy/PalTrainerUltra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=byPreaZy&repo=PalTrainerUltra&theme=tokyonight&hide_border=true" alt="PalTrainerUltra"/></a>
 </div>
 
 ## Contributions
@@ -64,10 +50,6 @@ const preaZy = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byPreaZy/byPreaZy/output/github-contribution-grid-snake.svg"/>
   <img alt="Snake des contributions" src="https://raw.githubusercontent.com/byPreaZy/byPreaZy/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=byPreaZy&theme=tokyo-night&hide_border=true&area=true" alt="Graphe d'activité"/>
-</div>
 
 ---
 
